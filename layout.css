@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    margin: 50px auto;
+}
+p{
+    text-align:center;
+}
+
+table th,td{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid #CCCCCC;
+}
+table th{
+    background-color:#4B4B4B;
+    color: #FFFFFF;
+}
+table td{
+    color: #4B4B4B;
+}
